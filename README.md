@@ -6,7 +6,7 @@ A command line utility to fetch the channel stats of a youtube channel.
 After cloning this repository.
 
 ``` 
-git clone  https://github.com/Ravineesh/grabThatTweet.git 
+git clone  https://github.com/Ravineesh/YouTubeGrabber.git 
 cd YouTubeGrabber/src 
 pip install -r requirements.txt
 ```
