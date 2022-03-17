@@ -3,7 +3,7 @@
 A command line utility to fetch the channel stats of a youtube channel.
 
 # Installation instruction
-After cloning this repository.
+After cloning the repository.
 
 ``` 
 git clone  https://github.com/Ravineesh/YouTubeGrabber.git 
